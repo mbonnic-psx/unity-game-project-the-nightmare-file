@@ -1,6 +1,6 @@
 # The Nightmare File
 
-![Banner](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\banner.gif)
+![[banner.gif]]
 
 ---
 
