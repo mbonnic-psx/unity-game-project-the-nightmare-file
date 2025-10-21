@@ -1,7 +1,5 @@
 # The Nightmare File
 
-![[banner.gif]]
-
 ---
 
 ## Overview
