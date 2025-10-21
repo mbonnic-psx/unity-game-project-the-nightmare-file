@@ -1,5 +1,7 @@
 # The Nightmare File
 
+![Banner](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\banner.gif)
+
 ---
 
 ## Overview
@@ -57,6 +59,13 @@
 
 ## Screenshots
 
+| ![Beginning](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Car.png) | ![Enviroment](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Enviroment.png)
+|:--:|:--:|
+| Beginning Sequence | World Enviroment |
+
+| ![Flashlight](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Flashlight.png) | ![Backroom](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Backroom.png)
+|:--:|:--:|
+| Flashlight Showcase | Backroom Showcase |
 
 ---
 
