@@ -1,5 +1,7 @@
 # The Nightmare File
 
+![Banner](https://github.com/mbonnic-psx/unity-game-project-the-nightmare-file/blob/main/Screenshots/Banner%20960x400.gif)
+
 ---
 
 ## Overview
@@ -57,13 +59,28 @@
 
 ## Screenshots
 
-| ![Beginning](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Car.png) | ![Enviroment](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Enviroment.png)
-|:--:|:--:|
-| Beginning Sequence | World Enviroment |
-
-| ![Flashlight](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Flashlight.png) | ![Backroom](C:\Users\matth\OneDrive\Documents\GitHub\unity-game-project-the-nightmare-file\Screenshots\Backroom.png)
-|:--:|:--:|
-| Flashlight Showcase | Backroom Showcase |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mbonnic-psx/unity-game-project-the-nightmare-file/blob/main/Screenshots/Car%20Gif.gif" width="420">
+      <br>Beginning Sequence
+    </td>
+    <td align="center">
+      <img src="https://github.com/mbonnic-psx/unity-game-project-the-nightmare-file/blob/main/Screenshots/Enviroment.png" width="420">
+      <br>World Environment
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/mbonnic-psx/unity-game-project-the-nightmare-file/blob/main/Screenshots/Flash%20Gif.gif" width="420">
+      <br>Flashlight Showcase
+    </td>
+    <td align="center">
+      <img src="https://github.com/mbonnic-psx/unity-game-project-the-nightmare-file/blob/main/Screenshots/Backroom.png" width="420">
+      <br>Backroom Showcase
+    </td>
+  </tr>
+</table>
 
 ---
 
