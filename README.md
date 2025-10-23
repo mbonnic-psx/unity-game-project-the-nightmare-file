@@ -98,6 +98,10 @@
 - GitHub: [https://github.com/mbonnic-psx](https://github.com/mbonnic-psx)
 - Linkedin [https://www.linkedin.com/in/matthew-bonnichsen/](https://www.linkedin.com/in/matthew-bonnichsen/)
 
+## Developer Notes:
+
+**Some Assets in this project is not my own. For credits to these assets check the game page on Itch.io [https://fwitbees.itch.io/nightmarefile](https://fwitbees.itch.io/nightmarefile)**
+
 ## License
 All Rights Reserved © 2025 Matthew Bonnichsen  
 This repository provides compiled builds of *The Nightmare File* for demonstration purposes only.  
